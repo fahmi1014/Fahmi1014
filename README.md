@@ -1,5 +1,7 @@
 ## Hello World I'm Fahmi Setiawan 👋
 
+![fahmi1014](img/header.png#)
+
 <!--
 **fahmi1014/Fahmi1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +19,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Portofolio**
 - 🌱 I’m currently learning Laravel Framework
-
-![happy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRpcHhzZHZvb2w4YmN0azF1MmU2andhZmd3aThwNTYyemV4Z2V4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9gkwDaCB4pmoOe73x2/giphy.gif)
